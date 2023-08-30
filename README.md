@@ -26,6 +26,7 @@ The Yelp API afforded us substantially more comprehensive data by furnishing add
 
 ## Challenges 
 Data Cleaning and Preprocessing
+API key getting disabled and having to wait 
 Data Integration and Joining
 
 ## Future Goals
