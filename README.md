@@ -1,10 +1,6 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-Data retrieval and integration
-Comparative analysis    
-Data visualization
-
 The primary aim of this project was to gather data from multiple API sources. This included extracting bike station data from city bikes for a specific city, along with information about businesses situated within a 1000m radius of those bike stations, utilizing both the Foursquare and Yelp APIs. 
 
 The project's objectives encompassed the creation of dataframes, a comprehensive amalgamated dataframe comprising all three datasets featuring pertinent details, and the initiation of Exploratory Data Analysis (EDA) procedures. EDA encompassed data refinement, visualization, and insight generation. 
@@ -31,6 +27,5 @@ Data Integration and Joining
 
 ## Future Goals
 Propose potential improvements for the models, data collection process, or analysis methodology.
-
 Consider how the project findings can be used for real-world applications or further research.
 
